@@ -6,7 +6,8 @@
 - [x] Crane for moving clouds
 - [x] A cattle filled train chugged along across farmland
 - [x] Welcome to the DREAM journal, this is your first entry
-- [ ] The stars are looking forward and backward at you
+- [x] The stars are looking forward and backward at you
+- [x] Time flies like an arrow. Fruit flies like a banana.
 - [ ] Cabin in the woods with a moss lawn and little mushrooms
 - [ ] The sun was shining and making life beautiful
 - [ ] A dream is a dream
@@ -18,4 +19,3 @@
 - [ ] A lighthouse on the moon
 - [ ] What makes night within us may leave stars
 - [ ] Rambutan kangaroo paws on WASP-76b
-- [ ] Time flies like an arrow. Fruit flies like a banana.
