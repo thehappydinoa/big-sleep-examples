@@ -5,13 +5,21 @@ from uuid import uuid4
 
 from big_sleep import Imagine
 
+# Put your phrase here
+TEXT = "Rambutan kangaroo paws on WASP-76b"
 
+# Penalize the phrases
+TEXT_MIN = ("blur|zoom",)
+
+# Bad characters for files
 BAD_CHARACTERS = "\n?."
+
 
 def clean_up_text(text: str) -> str:
     for ch in BAD_CHARACTERS:
         text = text.replace(ch, "")
     return text
+
 
 def mkdir_and_dream(text: str, **kwargs) -> str:
     start = os.getcwd()
@@ -55,4 +63,4 @@ def mkdir_and_dream(text: str, **kwargs) -> str:
 
 
 if __name__ == "__main__":
-    mkdir_and_dream("Rambutan kangaroo paws on WASP-76b")
+    mkdir_and_dream(TEXT, text_min=TEXT_MIN)
