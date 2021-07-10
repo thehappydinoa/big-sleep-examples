@@ -55,4 +55,4 @@ def mkdir_and_dream(text: str, **kwargs) -> str:
 
 
 if __name__ == "__main__":
-    mkdir_and_dream("Welcome to the DREAM journal, this is your first entry")
+    mkdir_and_dream("The stars are looking forward and backward at you")
