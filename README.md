@@ -8,11 +8,7 @@ Phrase ideas are welcome! Just create an issue or a pull request adding the desi
 
 ## In Progress
 
-<img src="./6a5d88d6-5405-44f3-8378-e7135ebc0b4e/Welcome_to_the_DREAM_journal_this_is_your_first_entry.best.png" width="250px">
-
-*Welcome to the DREAM journal, this is your first entry*
-
-<!-- *Nothing happening right now* -->
+*Nothing happening right now*
 
 ## Best Images
 
@@ -39,6 +35,10 @@ Phrase ideas are welcome! Just create an issue or a pull request adding the desi
 <img src="./best/How_do_I_get_my_name.best.png" width="250px">
 
 *How do I get my name?*
+
+<img src="./best/Welcome_to_the_DREAM_journal_this_is_your_first_entry.best.png" width="250px">
+
+*Welcome to the DREAM journal, this is your first entry*
 
 ## Install
 
