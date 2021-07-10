@@ -54,7 +54,7 @@ Phrase ideas are welcome! Just create an issue or a pull request adding the desi
 pip install big-sleep==0.8.5
 ```
 
-## 
+## Usage
 
 Edit `dream.py` to change the text.
 
