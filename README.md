@@ -1,6 +1,10 @@
-# [Big Sleep](https://github.com/lucidrains/big-sleep) Examples
+# [Big Sleep](https://github.com/lucidrains/big-sleep) Examples ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome!-green)
 
-[Phrase Ideas](./ideas.md) (PRs welcome!)
+Examples code and images for programmatically generating images using Big Sleep (CLIP + BigGAN).
+
+Phrase ideas are welcome! Just create an issue or a pull request adding the desired phrase to `ideas.md`.
+
+[Phrase Ideas](./ideas.md)
 
 ## In Progress
 
