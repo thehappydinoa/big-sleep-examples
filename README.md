@@ -8,13 +8,17 @@ Phrase ideas are welcome! Just create an issue or a pull request adding the desi
 
 ## In Progress
 
-<img src="./fe7759a5-292e-401d-80f1-149f17e76114/Time_flies_like_an_arrow_Fruit_flies_like_a_banana.best.png" width="250px">
+<img src="./21d28f09-f391-4876-b1d6-67680738a43f/Rambutan_kangaroo_paws_on_WASP_76b.best.png" width="250px">
 
-*Time flies like an arrow. Fruit flies like a banana.*
+*Rambutan kangaroo paws on WASP-76b*
 
 <!-- *Nothing happening right now* -->
 
 ## Best Images
+
+<img src="./best/Time_flies_like_an_arrow_Fruit_flies_like_a_banana.best.png" width="250px">
+
+*Time flies like an arrow. Fruit flies like a banana.*
 
 <img src="./best/The_stars_are_looking_forward_and_backward_at_you.best.png" width="250px">
 
