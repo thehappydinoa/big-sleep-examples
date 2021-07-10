@@ -2,7 +2,7 @@
 
 - [x] Cyberpunk communist in space
 - [x] Steampunk blimp over the moon
-- [x] Red head on pluto (short)
+- [x] Red head on pluto
 - [x] Crane for moving clouds
 - [x] A cattle filled train chugged along across farmland
 - [x] Welcome to the DREAM journal, this is your first entry

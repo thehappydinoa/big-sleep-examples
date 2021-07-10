@@ -8,13 +8,17 @@ Phrase ideas are welcome! Just create an issue or a pull request adding the desi
 
 ## In Progress
 
-<img src="./21d28f09-f391-4876-b1d6-67680738a43f/Rambutan_kangaroo_paws_on_WASP_76b.best.png" width="250px">
+<img src="./best/Rambutan_kangaroo_paws_on_WASP_76b.best.png" width="250px">
 
 *Rambutan kangaroo paws on WASP-76b*
 
 <!-- *Nothing happening right now* -->
 
 ## Best Images
+
+<img src="./best/Rambutan_kangaroo_paws_on_WASP_76b.best.png" width="250px">
+
+*Rambutan kangaroo paws on WASP-76b*
 
 <img src="./best/Time_flies_like_an_arrow_Fruit_flies_like_a_banana.best.png" width="250px">
 

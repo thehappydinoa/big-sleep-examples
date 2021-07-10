@@ -55,7 +55,7 @@ def mkdir_and_dream(text: str, **kwargs) -> str:
         print("Exit: User cancelled.")
 
     for file in glob.glob("*.best.*"):
-        shutil.copy(file, best_dir)
+        shutil.copy(file, os.path.join(best_dir, file))
 
     os.chdir(start)
 
