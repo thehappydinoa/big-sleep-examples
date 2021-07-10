@@ -1,4 +1,6 @@
-# Big Sleep ([repo](https://github.com/lucidrains/big-sleep))
+# [Big Sleep](https://github.com/lucidrains/big-sleep) Examples
+
+[Phrase Ideas](./ideas.md) (PRs welcome!)
 
 ## In Progress
 
@@ -33,3 +35,19 @@
 <img src="./best/How_do_I_get_my_name.best.png" width="250px"></img>
 
 *How do I get my name?*
+
+## Install
+
+```sh
+pip install big-sleep==0.8.5
+```
+
+## 
+
+Edit `dream.py` to change the text.
+
+Then run:
+
+```sh
+python dream.py
+```
