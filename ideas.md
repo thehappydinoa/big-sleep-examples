@@ -17,3 +17,5 @@
 - [ ] The future is a place of magic
 - [ ] A lighthouse on the moon
 - [ ] What makes night within us may leave stars
+- [ ] Rambutan kangaroo paws on WASP-76b
+- [ ] Time flies like an arrow. Fruit flies like a banana.
