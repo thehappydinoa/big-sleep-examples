@@ -8,7 +8,11 @@ Phrase ideas are welcome! Just create an issue or a pull request adding the desi
 
 ## In Progress
 
-*Nothing happening right now*
+<!-- *Nothing happening right now* -->
+
+<img src="./ba790b86-2fcb-4ce1-a65e-f0b1ba83e1cb/Psychedelic_fractal_trees_wout_blur--zoom.best.png" width="250px">
+
+*Psychedelic fractal trees*
 
 ## Best Images
 

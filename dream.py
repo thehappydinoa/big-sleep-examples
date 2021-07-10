@@ -6,10 +6,10 @@ from uuid import uuid4
 from big_sleep import Imagine
 
 # Put your phrase here
-TEXT = "A lighthouse on the moon"
+TEXT = "Psychedelic fractal trees"
 
 # Penalize the phrases
-TEXT_MIN = ("blur|zoom")
+TEXT_MIN = "blur|zoom"
 
 # Bad characters for files
 BAD_CHARACTERS = "\n?."
@@ -63,4 +63,5 @@ def mkdir_and_dream(text: str, **kwargs) -> str:
 
 
 if __name__ == "__main__":
-    mkdir_and_dream(TEXT, text_min=TEXT_MIN)
+    # mkdir_and_dream(TEXT, text_min=TEXT_MIN)
+    mkdir_and_dream(TEXT, text_min=TEXT_MIN, num_cutouts=48, max_classes=900, lr=0.05)
