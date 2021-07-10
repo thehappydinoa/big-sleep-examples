@@ -8,9 +8,9 @@ Phrase ideas are welcome! Just create an issue or a pull request adding the desi
 
 ## In Progress
 
-<img src="./best/Rambutan_kangaroo_paws_on_WASP_76b.best.png" width="250px">
+<img src="./17840fc5-0966-4521-ad93-fb7458d03e1a/A_lighthouse_on_the_moon_wout_blur--zoom.best.png" width="250px">
 
-*Rambutan kangaroo paws on WASP-76b*
+*A lighthouse on the moon*
 
 <!-- *Nothing happening right now* -->
 

@@ -6,10 +6,10 @@ from uuid import uuid4
 from big_sleep import Imagine
 
 # Put your phrase here
-TEXT = "Rambutan kangaroo paws on WASP-76b"
+TEXT = "A lighthouse on the moon"
 
 # Penalize the phrases
-TEXT_MIN = ("blur|zoom",)
+TEXT_MIN = ("blur|zoom")
 
 # Bad characters for files
 BAD_CHARACTERS = "\n?."

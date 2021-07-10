@@ -9,6 +9,7 @@
 - [x] The stars are looking forward and backward at you
 - [x] Time flies like an arrow. Fruit flies like a banana.
 - [x] Rambutan kangaroo paws on WASP-76b
+- [x] A lighthouse on the moon
 - [ ] Cabin in the woods with a moss lawn and little mushrooms
 - [ ] The sun was shining and making life beautiful
 - [ ] A dream is a dream
@@ -17,5 +18,4 @@
 - [ ] The moon is a great place to work
 - [ ] I was a robot
 - [ ] The future is a place of magic
-- [ ] A lighthouse on the moon
 - [ ] What makes night within us may leave stars
