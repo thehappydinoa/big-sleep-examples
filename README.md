@@ -8,7 +8,7 @@ Phrase ideas are welcome! Just create an issue or a pull request adding the desi
 
 ## In Progress
 
-<img src="./best/What_makes_night_within_us_may_leave_stars_wout_blur--zoom.best.png" width="250px">
+<img src="./00c3538d-103f-4363-885e-c5d0cf53c58f\The_stars_are_a_great_mirror_wout_blur--zoom.best.png" width="250px">
 
 *The stars are a great mirror*
 

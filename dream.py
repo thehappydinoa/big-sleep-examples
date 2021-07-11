@@ -9,7 +9,7 @@ from big_sleep import Imagine
 from imageio import imread, mimsave
 
 # Put your phrase here
-TEXT = "What makes night within us may leave stars"
+TEXT = "The stars are a great mirror"
 
 # Penalize the phrases
 TEXT_MIN = "blur|zoom"
