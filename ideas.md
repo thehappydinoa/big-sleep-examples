@@ -11,13 +11,13 @@
 - [x] Rambutan kangaroo paws on WASP-76b
 - [x] A lighthouse on the moon
 - [x] Psychedelic fractal trees
-- [ ] Cabin in the woods with a moss lawn and little mushrooms
+- [x] Cabin in the woods with a moss lawn and little mushrooms
+- [x] The future is a place of magic
 - [ ] The sun was shining and making life beautiful
 - [ ] A dream is a dream
 - [ ] The sky is the limit
 - [ ] A dream is a journey
 - [ ] The moon is a great place to work
 - [ ] I was a robot
-- [ ] The future is a place of magic
 - [ ] What makes night within us may leave stars
 - [ ] The stars are a great mirror
