@@ -24,7 +24,7 @@ def clean_up_text(text: str) -> str:
 def mkdir_and_dream(text: str, **kwargs) -> str:
     start = os.getcwd()
 
-    best_dir = "./best"
+    best_dir = os.path.join(start, "best")
     if not os.path.isdir(best_dir):
         os.mkdir(best_dir)
 
