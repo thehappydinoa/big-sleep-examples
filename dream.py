@@ -9,7 +9,7 @@ from big_sleep import Imagine
 from imageio import imread, mimsave
 
 # Put your phrase here
-TEXT = "The future is a place of magic"
+TEXT = "What makes night within us may leave stars"
 
 # Penalize the phrases
 TEXT_MIN = "blur|zoom"
@@ -76,7 +76,7 @@ def mkdir_and_dream(text: str, save_gif=False, save_video=False, **kwargs) -> st
     except KeyboardInterrupt:
         print("Exit: User cancelled.")
 
-    create_animation_from_dir()
+    # create_animation_from_dir()
 
     # Copy to best dir
     for file in glob.glob("*.best.*"):

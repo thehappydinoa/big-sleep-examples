@@ -8,7 +8,11 @@ Phrase ideas are welcome! Just create an issue or a pull request adding the desi
 
 ## In Progress
 
-*Nothing happening right now*
+<img src="./f7c857b8-c30f-4593-87c6-a8b677091d22/What_makes_night_within_us_may_leave_stars_wout_blur--zoom.best.png" width="250px">
+
+*What makes night within us may leave stars*
+
+<!-- *Nothing happening right now* -->
 
 ## Best Images
 
