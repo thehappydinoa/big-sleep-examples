@@ -1,12 +1,15 @@
 import os
 import shutil
 import glob
+from tkinter import N
+from typing import Optional
 from uuid import uuid4
 
 from big_sleep import Imagine
+from imageio import imread, mimsave
 
 # Put your phrase here
-TEXT = "Cabin in the woods with a moss lawn and little mushrooms"
+TEXT = "The future is a place of magic"
 
 # Penalize the phrases
 TEXT_MIN = "blur|zoom"
@@ -20,8 +23,27 @@ def clean_up_text(text: str) -> str:
         text = text.replace(ch, "")
     return text
 
+def create_animation_from_dir(dir: Optional[str] = None, file_type=".png", save_gif=True, save_video=False):
+    if dir is None:
+        dir = os.getcwd()
 
-def mkdir_and_dream(text: str, **kwargs) -> str:
+    textpath = None
+    images = []
+    for file_name in sorted(os.listdir(dir)):
+        if file_name.endswith(file_type):
+            images.append(imread(os.path.join(dir, file_name)))
+            if not textpath:
+                textpath = file_name.split(".")[0]
+
+    if save_video:
+        mimsave(f"{textpath}.mp4", images)
+        print(f"Generated image generation animation at ./{textpath}.mp4")
+    if save_gif:
+        mimsave(f"{textpath}.gif", images)
+        print(f"Generated image generation animation at ./{textpath}.gif")
+    
+
+def mkdir_and_dream(text: str, save_gif=False, save_video=False, **kwargs) -> str:
     start = os.getcwd()
 
     best_dir = os.path.join(start, "best")
@@ -54,6 +76,9 @@ def mkdir_and_dream(text: str, **kwargs) -> str:
     except KeyboardInterrupt:
         print("Exit: User cancelled.")
 
+    create_animation_from_dir()
+
+    # Copy to best dir
     for file in glob.glob("*.best.*"):
         shutil.copy(file, os.path.join(best_dir, file))
 
