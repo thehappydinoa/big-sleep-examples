@@ -10,6 +10,7 @@
 - [x] Time flies like an arrow. Fruit flies like a banana.
 - [x] Rambutan kangaroo paws on WASP-76b
 - [x] A lighthouse on the moon
+- [x] Psychedelic fractal trees
 - [ ] Cabin in the woods with a moss lawn and little mushrooms
 - [ ] The sun was shining and making life beautiful
 - [ ] A dream is a dream
@@ -19,4 +20,4 @@
 - [ ] I was a robot
 - [ ] The future is a place of magic
 - [ ] What makes night within us may leave stars
-- [ ] Psychedelic fractal trees
+- [ ] The stars are a great mirror
