@@ -8,7 +8,11 @@ Phrase ideas are welcome! Just create an issue or a pull request adding the desi
 
 ## In Progress
 
-*Nothing happening right now*
+<img src="./21ab3ddf-afea-4cf5-bbdb-0c4b59e33fa0/Cabin_in_the_woods_with_a_moss_lawn_and_little_mushrooms_wout_blur--zoom.best.png" width="250px">
+
+*Cabin in the woods with a moss lawn and little mushrooms*
+
+<!-- *Nothing happening right now* -->
 
 ## Best Images
 

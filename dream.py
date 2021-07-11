@@ -6,7 +6,7 @@ from uuid import uuid4
 from big_sleep import Imagine
 
 # Put your phrase here
-TEXT = "Psychedelic fractal trees"
+TEXT = "Cabin in the woods with a moss lawn and little mushrooms"
 
 # Penalize the phrases
 TEXT_MIN = "blur|zoom"
