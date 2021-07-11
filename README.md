@@ -8,13 +8,17 @@ Phrase ideas are welcome! Just create an issue or a pull request adding the desi
 
 ## In Progress
 
-<img src="./f7c857b8-c30f-4593-87c6-a8b677091d22/What_makes_night_within_us_may_leave_stars_wout_blur--zoom.best.png" width="250px">
+<img src="./best/What_makes_night_within_us_may_leave_stars_wout_blur--zoom.best.png" width="250px">
 
-*What makes night within us may leave stars*
+*The stars are a great mirror*
 
 <!-- *Nothing happening right now* -->
 
 ## Best Images
+
+<img src="./best/What_makes_night_within_us_may_leave_stars_wout_blur--zoom.best.png" width="250px">
+
+*What makes night within us may leave stars*
 
 <img src="./best/The_future_is_a_place_of_magic_wout_blur--zoom.best.png" width="250px">
 
