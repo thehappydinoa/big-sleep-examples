@@ -15,10 +15,10 @@
 - [x] The future is a place of magic
 - [x] What makes night within us may leave stars
 - [x] The stars are a great mirror
+- [x] I was a robot
 - [ ] The sun was shining and making life beautiful
 - [ ] A dream is a dream
 - [ ] The sky is the limit
 - [ ] A dream is a journey
 - [ ] The moon is a great place to work
-- [ ] I was a robot
 - [ ] Seagull in a lighthouse
