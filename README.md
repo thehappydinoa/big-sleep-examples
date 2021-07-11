@@ -8,13 +8,13 @@ Phrase ideas are welcome! Just create an issue or a pull request adding the desi
 
 ## In Progress
 
-<img src="./3acb8658-79a9-462c-9ae6-3d2cf8818a88\The_future_is_a_place_of_magic_wout_blur--zoom.best.png" width="250px">
-
-*The future is a place of magic*
-
-<!-- *Nothing happening right now* -->
+*Nothing happening right now*
 
 ## Best Images
+
+<img src="./best/The_future_is_a_place_of_magic_wout_blur--zoom.best.png" width="250px">
+
+*The future is a place of magic*
 
 <img src="./best/Cabin_in_the_woods_with_a_moss_lawn_and_little_mushrooms_wout_blur--zoom.best.png" width="250px">
 

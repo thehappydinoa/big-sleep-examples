@@ -21,3 +21,4 @@
 - [ ] I was a robot
 - [ ] What makes night within us may leave stars
 - [ ] The stars are a great mirror
+- [ ] Seagull in a lighthouse
