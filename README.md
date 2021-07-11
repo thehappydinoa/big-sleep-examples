@@ -63,7 +63,7 @@ Phrase ideas are welcome! Just create an issue or a pull request adding the desi
 ## Install
 
 ```sh
-pip install big-sleep==0.8.5
+pip install -r requirements.txt
 ```
 
 ## Usage
