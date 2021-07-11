@@ -8,13 +8,17 @@ Phrase ideas are welcome! Just create an issue or a pull request adding the desi
 
 ## In Progress
 
-<img src="./348aae89-bfe2-459c-8d61-d2c683072965/I_was_a_robot_wout_blur--zoom.best.png" width="250px">
+<!-- <img src="./best/I_was_a_robot_wout_blur--zoom.best.png" width="250px">
 
-*I was a robot*
+*I was a robot* -->
 
-<!-- *Nothing happening right now* -->
+*Nothing happening right now*
 
 ## Best Images
+
+<img src="./best/I_was_a_robot_wout_blur--zoom.best.png" width="250px">
+
+*I was a robot*
 
 <img src="./best/The_stars_are_a_great_mirror_wout_blur--zoom.best.png" width="250px">
 
