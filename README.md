@@ -8,11 +8,11 @@ Phrase ideas are welcome! Just create an issue or a pull request adding the desi
 
 ## In Progress
 
-<!-- <img src="./best/The_sun_was_shining_and_making_life_beautiful_wout_blur--zoom.best.png" width="250px">
+<img src="./96538915-892f-4b3d-a7bb-b19372ea4767/Seagull_in_a_lighthouse_wout_blur--zoom.best.png" width="250px">
 
-*The sun was shining and making life beautiful* -->
+*Seagull in a lighthouse*
 
-*Nothing happening right now*
+<!-- *Nothing happening right now* -->
 
 ## Best Images
 
