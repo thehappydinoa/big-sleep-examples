@@ -117,14 +117,14 @@ def mkdir_and_dream(text: str, save_gif=False, save_video=False, **kwargs) -> st
 
 if __name__ == "__main__":
     # mkdir_and_dream(TEXT, text_min=TEXT_MIN)
-    for phrase in PHRASES:
-        mkdir_and_dream(
-            phrase,
-            text_min=TEXT_MIN,
-            num_cutouts=48,
-            max_classes=900,
-            lr=0.05,
-            iterations=250,
-            save_gif=True,
-        )
-    # create_animation_from_dir("b2e78ed0-d68d-4436-a5bb-97ee4471768a", save_gif=True)
+    # for phrase in PHRASES:
+    #     mkdir_and_dream(
+    #         phrase,
+    #         text_min=TEXT_MIN,
+    #         num_cutouts=48,
+    #         max_classes=900,
+    #         lr=0.05,
+    #         iterations=250,
+    #         save_gif=True,
+    #     )
+    create_animation_from_dir("b2e78ed0-d68d-4436-a5bb-97ee4471768a", save_gif=True)

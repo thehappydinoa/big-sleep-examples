@@ -16,6 +16,11 @@ Phrase ideas are welcome! Just create an issue or a pull request adding the desi
 
 ## Best Images
 
+<img src="./best/Psychedelic_fractal_trees--mushrooms--atoms_wout_blur--zoom.best.png" width="250px">
+<img src="./best/Psychedelic_fractal_trees--mushrooms--atoms_wout_blur--zoom.gif" width="250px">
+
+*Psychedelic fractal trees | mushrooms | atoms*
+
 <img src="./best/A_dream_is_a_dream_wout_blur--zoom.best.png" width="250px">
 <img src="./best/A_dream_is_a_dream_wout_blur--zoom.gif" width="250px">
 <img src="./best/A_dream_is_a_dream_wout_blur--zoom.2.best.png" width="250px">
