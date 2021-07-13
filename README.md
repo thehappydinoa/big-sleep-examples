@@ -16,9 +16,24 @@ Phrase ideas are welcome! Just create an issue or a pull request adding the desi
 
 ## Best Images
 
-<img src="./5c9144f5-a4f3-4abd-bc7c-8bc57ca18b71/Time_flies_like_an_arrow--Fruit_flies_like_a_banana_wout_blur--zoom.best.png" width="250px">
+<img src="./best/A_dream_is_a_dream_wout_blur--zoom.best.png" width="250px">
+<img src="./best/A_dream_is_a_dream_wout_blur--zoom.gif" width="250px">
+<img src="./best/A_dream_is_a_dream_wout_blur--zoom.2.best.png" width="250px">
+<img src="./best/A_dream_is_a_dream_wout_blur--zoom.2.gif" width="250px">
 
-*Time flies like an arrow | Fruit flies like a banana*
+*A dream is a dream*
+
+<img src="./best/A_dream_is_a_journey_wout_blur--zoom.best.png" width="250px">
+<img src="./best/A_dream_is_a_journey_wout_blur--zoom.2.best.png" width="250px">
+
+*A dream is a journey*
+
+<img src="./best/The_moon_is_a_great_place_to_work--The_sky_is_the_limit_wout_blur--zoom.best.png" width="250px">
+<img src="./best/The_moon_is_a_great_place_to_work--The_sky_is_the_limit_wout_blur--zoom.gif" width="250px">
+<img src="./best/The_moon_is_a_great_place_to_work--The_sky_is_the_limit_wout_blur--zoom.2.best.png" width="250px">
+<img src="./best/The_moon_is_a_great_place_to_work--The_sky_is_the_limit_wout_blur--zoom.2.gif" width="250px">
+
+*The moon is a great place to work*
 
 <img src="./best/Seagull_in_a_lighthouse_wout_blur--zoom.best.png" width="250px">
 
@@ -29,6 +44,9 @@ Phrase ideas are welcome! Just create an issue or a pull request adding the desi
 *The sun was shining and making life beautiful*
 
 <img src="./best/I_was_a_robot_wout_blur--zoom.best.png" width="250px">
+<img src="./best/I_was_a_robot_wout_blur--zoom.gif" width="250px">
+<img src="./best/I_was_a_robot_wout_blur--zoom.2.best.png" width="250px">
+<img src="./best/I_was_a_robot_wout_blur--zoom.2.gif" width="250px">
 
 *I was a robot*
 
@@ -49,6 +67,7 @@ Phrase ideas are welcome! Just create an issue or a pull request adding the desi
 *Cabin in the woods with a moss lawn and little mushrooms*
 
 <img src="./best/Psychedelic_fractal_trees_wout_blur--zoom.best.png" width="250px">
+<img src="./best/Psychedelic_fractal_trees_wout_blur--zoom.2.best.png" width="250px">
 
 *Psychedelic fractal trees*
 
@@ -68,10 +87,6 @@ Phrase ideas are welcome! Just create an issue or a pull request adding the desi
 
 *The stars are looking forward and backward at you*
 
-<img src="./best/Welcome_to_the_DREAM_journal_this_is_your_first_entry.best.png" width="250px">
-
-*Welcome to the DREAM journal, this is your first entry*
-
 <img src="./best/A_cattle_filled_train_chugged_along_across_farmland.best.png" width="250px">
 
 *A cattle filled train chugged along across farmland*
@@ -79,10 +94,6 @@ Phrase ideas are welcome! Just create an issue or a pull request adding the desi
 <img src="./best/Crane_for_moving_clouds.best.png" width="250px">
 
 *Crane for moving clouds*
-
-<img src="./best/cyberpunk_communist_in_space.best.png" width="250px">
-
-*cyberpunk communist in space*
 
 <img src="./best/Red_head_on_pluto.best.png" width="250px">
 
@@ -92,9 +103,7 @@ Phrase ideas are welcome! Just create an issue or a pull request adding the desi
 
 *Steampunk blimp over the moon*
 
-<img src="./best/How_do_I_get_my_name.best.png" width="250px">
-
-*How do I get my name?*
+*[More Examples](examples.md)*
 
 ## Install
 

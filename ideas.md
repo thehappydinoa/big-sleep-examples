@@ -17,8 +17,8 @@
 - [x] The stars are a great mirror
 - [x] I was a robot
 - [x] The sun was shining and making life beautiful
-- [ ] A dream is a dream
-- [ ] The sky is the limit
-- [ ] A dream is a journey
-- [ ] The moon is a great place to work
-- [ ] Seagull in a lighthouse
+- [x] Seagull in a lighthouse
+- [x] A dream is a dream
+- [x] The sky is the limit
+- [x] A dream is a journey
+- [x] The moon is a great place to work

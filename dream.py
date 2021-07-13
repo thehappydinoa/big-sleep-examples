@@ -9,7 +9,15 @@ from big_sleep import Imagine
 from imageio import imread, mimsave
 
 # Put your phrase here
-TEXT = "Time flies like an arrow|Fruit flies like a banana"
+PHRASES = [
+    "The moon is a great place to work|The sky is the limit",
+    "A dream is a dream",
+    "A dream is a journey",
+    "I was a robot",
+    "Psychedelic fractal trees",
+    "Psychedelic fractal mushrooms",
+    "Psychedelic fractal trees|mushrooms|atoms",
+]
 
 # Penalize the phrases
 TEXT_MIN = "blur|zoom"
@@ -23,25 +31,44 @@ def clean_up_text(text: str) -> str:
         text = text.replace(ch, "")
     return text
 
-def create_animation_from_dir(dir: Optional[str] = None, file_type=".png", save_gif=True, save_video=False):
-    if dir is None:
+
+def create_animation_from_dir(
+    dir: Optional[str] = None, file_type="png", save_gif=True, save_video=False
+):
+    start = None
+    if dir:
+        start = os.getcwd()
+        os.chdir(dir)
+    else:
         dir = os.getcwd()
 
-    textpath = None
+    def get_file_order(file_name: str) -> int:
+        return int(file_name.replace("." + file_type, "").split(".")[-1])
+
+    file_names = [
+        path
+        for path in glob.glob(f"*.{file_type}")
+        if "best" not in path and path.count(".") >= 2
+    ]
+    file_names.sort(key=get_file_order)
+
+    text_path = None
     images = []
-    for file_name in sorted(os.listdir(dir)):
-        if file_name.endswith(file_type):
-            images.append(imread(os.path.join(dir, file_name)))
-            if not textpath:
-                textpath = file_name.split(".")[0]
+    for file_name in file_names:
+        images.append(imread(file_name))
+        if not text_path:
+            text_path = file_name.split(".")[0]
 
     if save_video:
-        mimsave(f"{textpath}.mp4", images)
-        print(f"Generated image generation animation at ./{textpath}.mp4")
+        mimsave(f"{text_path}.mp4", images)
+        print(f"Generated image generation animation at ./{text_path}.mp4")
     if save_gif:
-        mimsave(f"{textpath}.gif", images)
-        print(f"Generated image generation animation at ./{textpath}.gif")
-    
+        mimsave(f"{text_path}.gif", images)
+        print(f"Generated image generation animation at ./{text_path}.gif")
+
+    if start:
+        os.chdir(start)
+
 
 def mkdir_and_dream(text: str, save_gif=False, save_video=False, **kwargs) -> str:
     start = os.getcwd()
@@ -76,7 +103,8 @@ def mkdir_and_dream(text: str, save_gif=False, save_video=False, **kwargs) -> st
     except KeyboardInterrupt:
         print("Exit: User cancelled.")
 
-    # create_animation_from_dir()
+    if save_gif or save_video:
+        create_animation_from_dir(save_gif=save_gif, save_video=save_video)
 
     # Copy to best dir
     for file in glob.glob("*.best.*"):
@@ -89,4 +117,14 @@ def mkdir_and_dream(text: str, save_gif=False, save_video=False, **kwargs) -> st
 
 if __name__ == "__main__":
     # mkdir_and_dream(TEXT, text_min=TEXT_MIN)
-    mkdir_and_dream(TEXT, text_min=TEXT_MIN, num_cutouts=48, max_classes=900, lr=0.05)
+    for phrase in PHRASES:
+        mkdir_and_dream(
+            phrase,
+            text_min=TEXT_MIN,
+            num_cutouts=48,
+            max_classes=900,
+            lr=0.05,
+            iterations=250,
+            save_gif=True,
+        )
+    # create_animation_from_dir("b2e78ed0-d68d-4436-a5bb-97ee4471768a", save_gif=True)

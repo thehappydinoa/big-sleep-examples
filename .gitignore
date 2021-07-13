@@ -1,3 +1,5 @@
 .vscode/
 **/*.png
-!*.best.png
+!best/*.best.png
+**/*.gif
+!best/*.gif
