@@ -8,13 +8,21 @@ Phrase ideas are welcome! Just create an issue or a pull request adding the desi
 
 ## In Progress
 
-<img src="./96538915-892f-4b3d-a7bb-b19372ea4767/Seagull_in_a_lighthouse_wout_blur--zoom.best.png" width="250px">
+<!-- <img src="./5c9144f5-a4f3-4abd-bc7c-8bc57ca18b71/Time_flies_like_an_arrow--Fruit_flies_like_a_banana_wout_blur--zoom.best.png" width="250px">
 
-*Seagull in a lighthouse*
+*Time flies like an arrow | Fruit flies like a banana* -->
 
-<!-- *Nothing happening right now* -->
+*Nothing happening right now*
 
 ## Best Images
+
+<img src="./5c9144f5-a4f3-4abd-bc7c-8bc57ca18b71/Time_flies_like_an_arrow--Fruit_flies_like_a_banana_wout_blur--zoom.best.png" width="250px">
+
+*Time flies like an arrow | Fruit flies like a banana*
+
+<img src="./best/Seagull_in_a_lighthouse_wout_blur--zoom.best.png" width="250px">
+
+*Seagull in a lighthouse*
 
 <img src="./best/The_sun_was_shining_and_making_life_beautiful_wout_blur--zoom.best.png" width="250px">
 
