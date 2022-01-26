@@ -1,2 +1,2 @@
-big-sleep==0.8.5
+big-sleep==0.9.0
 imageio>=2.9.0
